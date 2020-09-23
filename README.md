@@ -23,7 +23,7 @@ exports.TELEGRAM_TOKEN = "<vom BotFather generierter Access-Token für den eben 
 
 ### Start ohne Docker
 
-* Node.js installieren, z.B. so wie [hier](https://blog.pm2.io/install-node-js-with-nvm/) beschrieben
+* Node.js installieren, z.B. so wie [hier](https://blog.pm2.io/2018-02-19/Installing-Node-js-with-NVM/) beschrieben
 * `npm install`
 * config/maps.js anpassen so dass die public/maps/ Ressourcen mit ihren absoluten Pfaden adressiert werden
 * `npm run start`
